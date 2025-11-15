@@ -1,6 +1,6 @@
 # PH250: Photoelectric Effect Academic Paper
 
-This repository contains all files required to reproduce an academic paper on the photoelectric effect and the experimental determination of Planck's constant.
+This repository contains all files required to reproduce my photoelectric effect experiment, including the data I collected, steps for the analysis I performed, and the academic paper in which I determined Planck's constant.
 
 ## Overview
 
@@ -15,9 +15,9 @@ The paper, "**A Thorough Examination of the Photoelectric Effect and its Consequ
 | **Institution** | Department of Physics, Colby College |
 | **Date** | October 26, 2025 |
 | **Key Finding** | Experimental determination of Planck's constant ($h$) |
-| **Calculated $h$** | $(5.13 \pm 0.28) \times 10^{-34} \, \mathrm{J \cdot s}$ |
+| **Calculated $h$** | $(5.13 \pm 0.28) \times 10^{-34} \ \mathrm{J \cdot s}$ |
 | **Accepted $h$ (CODATA)** | $6.626 \times 10^{-34} \ \mathrm{J \cdot s}$ |
-| **95% Confidence Interval** | $[4.23, 6.03] \times 10^{-34} \, \mathrm{J \cdot s}$ |
+| **95% Confidence Interval** | $[4.23, 6.03] \times 10^{-34} \ \mathrm{J \cdot s}$ |
 | **Deviation from Accepted Value** | 22.66% |
 
 ## Main Files and Directory Structure
